@@ -87,7 +87,7 @@ gitalk:
 google_analytics:
 
 utteranc:
-  repo: colinxu2020/example-pages# Your github repo path, also see: https://utteranc.es
+  repo: colinxu2020/example-pages # Your github repo path, also see: https://utteranc.es
   issue-term: "pathname"
 #
 # !! 以下所有设置都不需要更改 !!
